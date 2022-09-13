@@ -1,6 +1,6 @@
 # Gale-Game designer
 
-<img src='IMG_3836.JPG'/>
+<img src='IMG_3836.JPG' width='300'/>
 
 <a href='https://galenomercy.github.io/PCDE-Activity-9.1/'> Exercise </a>
 
